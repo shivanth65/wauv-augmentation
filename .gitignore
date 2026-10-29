@@ -1,0 +1,13 @@
+.venv/
+.idea/
+*.iml
+__pycache__/
+.ruff_cache/
+input/
+review/
+approved/
+output/
+fixtures/
+*.pt
+*.onnx
+*.zip
